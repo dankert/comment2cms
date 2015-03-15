@@ -1,0 +1,4 @@
+syntax: glob
+profiles/config-jandankert.de.ini
+profiles/config-bautagebuch.ini
+.settings/*
